@@ -1,0 +1,14 @@
+2
+a 10 b 10
+1
+R a
+R b
+a=a+b
+W a
+C
+2
+R b
+R a
+b=b+a
+W b
+C

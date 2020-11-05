@@ -1,0 +1,20 @@
+R-lock [2,b]
+W-lock [2,b]
+R-lock [5,e]
+Unlock [2,b]
+R-lock [1,a]
+R-lock [3,c]
+R-lock [4,d]
+W-lock [5,e]
+Unlock [5,e]
+Unlock [4,d]
+W-lock [1,a]
+Unlock [3,c]
+Unlock [1,a]
+a 20
+b 40
+c 30
+d 40
+e 100
+Successfully Completed
+

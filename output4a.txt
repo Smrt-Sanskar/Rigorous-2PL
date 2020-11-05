@@ -1,0 +1,15 @@
+R-lock [1,a]
+R-lock [2,b]
+W-lock [2,b]
+Unlock [2,b]
+R-lock [1,b]
+W-lock [1,a]
+Unlock [1,a]
+Unlock [1,b]
+a 70
+b 60
+c 0
+d 0
+e 0
+Successfully Completed
+
